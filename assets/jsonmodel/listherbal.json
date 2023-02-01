@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "title": "Aloever",
+    "scientific": "Origanum Vulgare",
+    "category": "plants",
+    "illness": "illness",
+    "commonly": "Oregano can be found in the Philippines, it is cultivated in Silang, Cavite. It is also native to the hills of the Mediterranean countries and western Asia and has naturalized in parts of Mexico and the United States.",
+    "benefits": "-Rich in Antioxidants\n- Fight Against Bacteria\n- Anti-Cancer Properties\n- Regulates Diabetes\n- Promotes digestive health\n- Cures respiratory problems\n- Decrease Inflammation\n- May Help Reduce Viral Infection",
+    "sideeffect": "When taken by mouth, oregano leaf and oregano oil are likely safe when eaten in foods. There i snot enough reliable information to know if oregano is safe to use in amounts greater than those found in food. Mild side effects include stomach upset.",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+  },
+  {
+    "id": 1,
+    "title": "Banaba",
+    "scientific": "Origanum Vulgare'",
+    "category": "plants",
+    "illness": "illness",
+    "commonly": "Oregano can be found in the Philippines, it is cultivated in Silang, Cavite. It is also native to the hills of the Mediterranean countries and western Asia and has naturalized in parts of Mexico and the United States.",
+    "benefits": "-Rich in Antioxidants\n- Fight Against Bacteria\n- Anti-Cancer Properties\n- Regulates Diabetes\n- Promotes digestive health\n- Cures respiratory problems\n- Decrease Inflammation\n- May Help Reduce Viral Infection",
+    "sideeffect": "When taken by mouth, oregano leaf and oregano oil are likely safe when eaten in foods. There i snot enough reliable information to know if oregano is safe to use in amounts greater than those found in food. Mild side effects include stomach upset.",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Basil",
+    "scientific": "Origanum Vulgare",
+    "category": "plants",
+    "illness": "diarrhea",
+    "commonly": "Oregano can be found in the Philippines, it is cultivated in Silang, Cavite. It is also native to the hills of the Mediterranean countries and western Asia and has naturalized in parts of Mexico and the United States.",
+    "benefits": "-Rich in Antioxidants\n- Fight Against Bacteria\n- Anti-Cancer Properties\n- Regulates Diabetes\n- Promotes digestive health\n- Cures respiratory problems\n- Decrease Inflammation\n- May Help Reduce Viral Infection",
+    "sideeffect": "When taken by mouth, oregano leaf and oregano oil are likely safe when eaten in foods. There i snot enough reliable information to know if oregano is safe to use in amounts greater than those found in food. Mild side effects include stomach upset.",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Mirasol",
+    "scientific": "Origanum Vulgare",
+    "category": "flowers",
+    "illness": "diarrhea",
+    "commonly": "Oregano can be found in the Philippines, it is cultivated in Silang, Cavite. It is also native to the hills of the Mediterranean countries and western Asia and has naturalized in parts of Mexico and the United States.",
+    "benefits": "-Rich in Antioxidants\n- Fight Against Bacteria\n- Anti-Cancer Properties\n- Regulates Diabetes\n- Promotes digestive health\n- Cures respiratory problems\n- Decrease Inflammation\n- May Help Reduce Viral Infection",
+    "sideeffect": "When taken by mouth, oregano leaf and oregano oil are likely safe when eaten in foods. There i snot enough reliable information to know if oregano is safe to use in amounts greater than those found in food. Mild side effects include stomach upset.",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Roselle",
+    "scientific": "Origanum Vulgare",
+    "category": "flowers",
+    "illness": "Allergies",
+    "commonly": "Oregano can be found in the Philippines, it is cultivated in Silang, Cavite. It is also native to the hills of the Mediterranean countries and western Asia and has naturalized in parts of Mexico and the United States.",
+    "benefits": "-Rich in Antioxidants\n- Fight Against Bacteria\n- Anti-Cancer Properties\n- Regulates Diabetes\n- Promotes digestive health\n- Cures respiratory problems\n- Decrease Inflammation\n- May Help Reduce Viral Infection",
+    "sideeffect": "When taken by mouth, oregano leaf and oregano oil are likely safe when eaten in foods. There i snot enough reliable information to know if oregano is safe to use in amounts greater than those found in food. Mild side effects include stomach upset.",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+  }
+]
